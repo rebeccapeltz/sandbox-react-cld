@@ -12,7 +12,6 @@ The authorization provided by an unsigned preset allows you to code and configur
 
 More details on creating unsigned upload presets are available in our [documentation](https://cloudinary.com/documentation/upload_presets).
 
-## This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Available Scripts
 
@@ -30,13 +29,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-## Deployment
-This code is deployed to https://cloudinary-training.github.io/cld-intro-react-sdk-training-tool/ using GitHub Pages.
-The code is maintained in the `main` branch, so continue to push changes there.  When you're ready to host the changes, run `npm run deploy`.  This will call the `predeploy` script which will build the project in a folder named build and then commit to the `gh-pages` branch.  This branch will be served on github.io. 
-Read more [here](https://github.com/gitname/react-gh-pages).
