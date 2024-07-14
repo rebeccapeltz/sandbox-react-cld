@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cld-intro-react-sdk-training-tool/static/css/main.15dd35b6.css",
-    "main.js": "/cld-intro-react-sdk-training-tool/static/js/main.59004b18.js",
-    "static/js/104.e806ef2c.chunk.js": "/cld-intro-react-sdk-training-tool/static/js/104.e806ef2c.chunk.js",
-    "static/js/337.894e9814.chunk.js": "/cld-intro-react-sdk-training-tool/static/js/337.894e9814.chunk.js",
-    "static/media/Inter-VariableFont_slnt,wght.ttf": "/cld-intro-react-sdk-training-tool/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
-    "index.html": "/cld-intro-react-sdk-training-tool/index.html",
-    "main.15dd35b6.css.map": "/cld-intro-react-sdk-training-tool/static/css/main.15dd35b6.css.map",
-    "main.59004b18.js.map": "/cld-intro-react-sdk-training-tool/static/js/main.59004b18.js.map",
-    "104.e806ef2c.chunk.js.map": "/cld-intro-react-sdk-training-tool/static/js/104.e806ef2c.chunk.js.map",
-    "337.894e9814.chunk.js.map": "/cld-intro-react-sdk-training-tool/static/js/337.894e9814.chunk.js.map"
+    "main.css": "/sandbox-react-cld/static/css/main.206bbbce.css",
+    "main.js": "/sandbox-react-cld/static/js/main.737a7cd7.js",
+    "static/js/831.bfaac37e.chunk.js": "/sandbox-react-cld/static/js/831.bfaac37e.chunk.js",
+    "static/js/337.c49a2ca5.chunk.js": "/sandbox-react-cld/static/js/337.c49a2ca5.chunk.js",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/sandbox-react-cld/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "index.html": "/sandbox-react-cld/index.html",
+    "main.206bbbce.css.map": "/sandbox-react-cld/static/css/main.206bbbce.css.map",
+    "main.737a7cd7.js.map": "/sandbox-react-cld/static/js/main.737a7cd7.js.map",
+    "831.bfaac37e.chunk.js.map": "/sandbox-react-cld/static/js/831.bfaac37e.chunk.js.map",
+    "337.c49a2ca5.chunk.js.map": "/sandbox-react-cld/static/js/337.c49a2ca5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15dd35b6.css",
-    "static/js/main.59004b18.js"
+    "static/css/main.206bbbce.css",
+    "static/js/main.737a7cd7.js"
   ]
 }
